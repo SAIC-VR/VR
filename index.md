@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+### Virtual Reality
 
-You can use the [editor on GitHub](https://github.com/SAIC-VR/VR/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OVERVIEW
+> Immersive Environments will introduce students to the creation of interactive Virtual Reality environments for large format displays such as the CAVE2. The class will cover the necessary topics such as modeling, animation, interaction, and audio components for the integration of real-time interactive environments. 
+We will consider various artworks created for Virtual Reality as well as other immersive techniques. The presentations of readings will open a space for discourse about multiple topics and issues relevant to immersive environments. 
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
