@@ -1,17 +1,17 @@
-#Syllabus Virtual Reality
-##ARTTECH 4135
+# Syllabus Virtual Reality
+## ARTTECH 4135
 Term: SPRING, 2018
 Schedule: Monday & Wednesday from 5-8 PM
 Location: MacLean 402
 Instructor: Brenda Lopez blopez3@artic.edu
  
 
-#OVERVIEW
+# OVERVIEW
 The Virtual Reality course will introduce students to the creation of interactive Virtual Reality environments for different technologies such as the Google cardboard, Head Mounted Displays (HTC Vive or Oculus) and CAVE like system. The class will cover the necessary topics such as 360° video, modeling, animation, interaction, and sound for the integration of real-time interactive environments. 
 
 We will consider various artworks created for Virtual Reality as well as other immersive techniques. The presentations will open a space for discourse about current issues relevant to virtual reality and immersive environments.
  
-#LEARNING GOALS
+# LEARNING GOALS
 The basics: To learn the basics of VR before digging into deeper contents.
 Presence and Immersion: We will learn the differences between immersion and presence, and how to create both for fully engaging experiences.
 Self-embodiment: Learn how to fully bring users into your creations that goes far beyond simply being a disembodied viewpoint in space.
@@ -20,8 +20,8 @@ Taking action: The class will include plans of action that anyone can follow to 
 PRIOR Knowledge
 No prior knowledge is expected beyond a basic understanding of computers and applications. Familiarly with a programming language will be helpful. 
  
-#CLASS RESOURCES
-##TEXTBOOK/READINGS
+# CLASS RESOURCES
+## TEXTBOOK/READINGS
 - The VR Book - Human-Centered Design for Virtual Reality - Jason Jerald 
 - Research Papers from Virtual Reality Conference
 Readings and other resources will be posted on the class site (shared with you via slack)
@@ -30,13 +30,13 @@ For a comprehensive list or resources*, check this additional resources document
 
 *Please note there will be some class time devoted to teaching tools, and it is expected as part of your effort outside the classroom to learn the material. You can find tutorials online (many on youtube.com) and at lynda.com (which as a SAIC students you have free access to). There are many more tools included on the resources document and you may use whatever tool you like to prepare the course assignments and projects.
 
-#ATTENDANCE POLICY
+# ATTENDANCE POLICY
 - More than 4 absences will result in a grade of NO CREDIT.
 - 3 late arrivals of more than 20 minutes count as one absence
 - Six or more unexcused late arrivals or early departures will result in class failure.
 NOTE: If you are going to be absent, late to class, or need to depart early, please contact me BEFORE class.
 
-#GRADING CRITERIA
+# GRADING CRITERIA
 - Class Participation: 9% 
 - Paper Presentations 10% 
 - Exams: 21% (7% each, 3 exams - no Final Exam) 
@@ -46,7 +46,7 @@ NOTE: If you are going to be absent, late to class, or need to depart early, ple
 Classes at SAIC are graded as credit | no credit. 
 Students must achieve at least an average performance in a course (the traditional grade equivalent of a "C" or 75%) in order to earn CR (credit).  
 
-#SCHEDULE* 
+# SCHEDULE* 
 Week	Date	Monday	Wednesday	Project/Assignment due
 2	Jan 29	Intro to course	VR Intro	Assignment 0
 3	Feb 05	Chapter 1 & 2	Vision and visuals	Assignment 1
@@ -72,7 +72,7 @@ Chapter 22-24	Exam 0
   Class will meet at EVL: 842 W Taylor St Room #2032   www.evl.uic.edu
 ** Guest speakers' dates may change, based on their availability
 
-#Class participation
+# Class participation
 No cell phone usage during class. You are responsible to turn your cell phone off prior to the class. We will use slack as a collaboration tool outside the classroom. It will contribute to your participation grade. 
 * class participation is expected from graduate students without including it in grade - lack of participation will have a negative impact on your grade 
 Assignments: [30%] 
@@ -88,30 +88,31 @@ Assignments: [30%]
 **All assignments and projects are due by MIDNIGHT on Thursday. **
 Failure to do any assignment will result in an automatic reduction of final grade by 5%. 
 
-#Projects: [30%] 
+# Projects: [30%] 
 - Project 00 (Individual 10%)
 - Project 01 (Group 20%) - joint project with Northern Illinois University
 All assignments and projects are due by MIDNIGHT on Thursday. 
 An F on either project will result in a NCR in the course.
 
-##Visiting Artists Program
+## Visiting Artists Program
 I will incorporate at least one VAP talk into the curriculum and share the semester's lecture schedule as a part of the syllabus. Date to be announced.
 
-##Writing Assistance: Writing Center
+## Writing Assistance: Writing Center
 Special Needs: Disability and Learning Resource Center
 
-#COURSE POLICIES
+# COURSE POLICIES
 ##Use of Mobile Devices 
 No cell phone usage during class. You are responsible to turn your cell phone prior to the class. 
-##Academic Misconduct 
+
+## Academic Misconduct 
 A word on cheating: Don't. Those suspected of academic misconduct, in any form, will be processed to the full extent of SAIC's Judicial Review process. 
 
-##Late Assignments and Makeup Exams 
+## Late Assignments and Makeup Exams 
 10% will be deducted for each day an assignment is late, assignments and projects are due by MIDNIGHT on 
 Thursday of the week they are due. No makeup exams will be given except in extreme cases. 
 
-#Syllabus Change Policy 
+# Syllabus Change Policy 
 While every attempt is made to provide an accurate overview of the course, unanticipated circumstances or events may make it necessary to modify the syllabus during the semester. Adjustments may be made to account for student progress, experiences, and needs, or other unforeseen outside factors. Any changes will be made with advance notice, so as not to disadvantage students. 
 
-#Acknowledgements 
+# Acknowledgements 
 This course has been developed at the School of the Art Institute of Chicago. I borrowed liberally from my colleagues' efforts in this area and my experience as a student in the Electronic Visualization Laboratory at the University of Illinois at Chicago. Colleagues that I have benefited from include Michael Papka (NIU), Andy Johnson (UIC). In addition, a number of discussions with Lance Long, Alex Betts, and Edouard Brooks. 
