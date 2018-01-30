@@ -46,23 +46,24 @@ NOTE: If you are going to be absent, late to class, or need to depart early, ple
 Classes at SAIC are graded as credit | no credit. 
 Students must achieve at least an average performance in a course (the traditional grade equivalent of a "C" or 75%) in order to earn CR (credit).  
 
+
 # SCHEDULE* 
 Week |	Date	| Monday	| Wednesday	| Project/Assignment due
 -----|----------|-----------|-----------|------------------------
-2 |	Jan 29 |	Intro to course	| VR Intro |	Assignment 0 
-3 |	Feb 05 |	Chapter 1 & 2	| Vision and visuals |	Assignment 1 
-4 |	Feb 12 |	Chapter 3, 4, 5 - Edouard Brooks	| EVL visit +	 | -
-5 |	Feb 19 |	Student 1 & 2 |	Chapter 20 & 21	| Assignment 2 
-6 |	Feb 26 |	Student 3 & 4 | Exam 0 | Chapter 22-24	| Exam 0 
-7 |	Mar 05 |	Student 5 |	Chapter 25 & 26	| Assignment 3 
-8 |	Mar 19 |	Student 7 |	Chapter 6 & 7	| Project 00 
-10 |	Mar 26	| -	| 	- | Critique week 
-11 |	Apr 02	| Student 8	| Exam 1 |	Exam 1 
-12 |	Apr 09	| Student 9	| Chapter 8 & 9	| Assignment 5 
-13 |	Apr 16	| Student 10	| Chapter 10 & 11 |	Assignment 6 
-14 |	Apr 23	| Student 11	| Chapter 12-14	| Exam 2 
-15 |	Apr 30	| Student 12	| Chapter 15-18	| Project 01 
-16 |	May 07	| Finals	| Finals	 
+2    |	Jan 29 |	Intro to course	VR Intro |	Assignment 0 
+3    |	Feb 05 |	Chapter 1 & 2	| Vision and visuals |	Assignment 1 
+4    |	Feb 12 |	Chapter 3, 4, 5 - Edouard Brooks	| EVL visit +	
+5    |	Feb 19 |	Student 1 & 2 |	Chapter 20 & 21	| Assignment 2 
+6    |	Feb 26 |	Student 3 & 4 | Exam 0  Chapter 22-24	| Exam 0 
+7    |	Mar 05 |	Student 5 |	Chapter 25 & 26	| Assignment 3 
+8    |	Mar 19 |	Student 7 |	Chapter 6 & 7	| Project 00 
+10   |	Mar 26	| -	| 	- | Critique week 
+11   |	Apr 02	| Student 8	| Exam 1 |	Exam 1 
+12   |	Apr 09	| Student 9	| Chapter 8 & 9	| Assignment 5 
+13   |	Apr 16	| Student 10	| Chapter 10 & 11 |	Assignment 6 
+14   |	Apr 23	| Student 11	| Chapter 12-14	| Exam 2 
+15   |	Apr 30	| Student 12	| Chapter 15-18	| Project 01 
+16   |	May 07	| Finals	| Finals	 | -
 
 * Subject to change	
 + Visit to the Electronic Visualization Laboratory (EVL) for CAVE2 demos 
