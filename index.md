@@ -49,9 +49,9 @@ Students must achieve at least an average performance in a course (the tradition
 # SCHEDULE* 
 Week |	Date	| Monday	| Wednesday	| Project/Assignment due
 -----|----------|-----------|-----------|------------------------
-2 |	Jan 29 |	Intro to course	VR Intro |	Assignment 0 
+2 |	Jan 29 |	Intro to course	| VR Intro |	Assignment 0 
 3 |	Feb 05 |	Chapter 1 & 2	| Vision and visuals |	Assignment 1 
-4 |	Feb 12 |	Chapter 3, 4, 5 - Edouard Brooks	| EVL visit +	
+4 |	Feb 12 |	Chapter 3, 4, 5 - Edouard Brooks	| EVL visit +	 | -
 5 |	Feb 19 |	Student 1 & 2 |	Chapter 20 & 21	| Assignment 2 
 6 |	Feb 26 |	Student 3 & 4 | Exam 0 | Chapter 22-24	| Exam 0 
 7 |	Mar 05 |	Student 5 |	Chapter 25 & 26	| Assignment 3 
