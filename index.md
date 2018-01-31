@@ -1,5 +1,6 @@
 # Syllabus Virtual Reality
 ## ARTTECH 4135
+
 Term: SPRING, 2018
 Schedule: Monday & Wednesday from 5-8 PM
 Location: MacLean 402
