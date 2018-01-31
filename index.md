@@ -4,7 +4,7 @@ Term: SPRING, 2018
 Schedule: Monday & Wednesday from 5-8 PM
 Location: MacLean 402
 Instructor: Brenda Lopez blopez3@artic.edu
- 
+TA: Li Yao lyao@saic.edu 
 
 # OVERVIEW
 The Virtual Reality course will introduce students to the creation of interactive Virtual Reality environments for different technologies such as the Google cardboard, Head Mounted Displays (HTC Vive or Oculus) and CAVE like system. The class will cover the necessary topics such as 360° video, modeling, animation, interaction, and sound for the integration of real-time interactive environments. 
