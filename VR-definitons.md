@@ -13,9 +13,10 @@
 
 But they aren't __interactive__ which is another key element.
 
-Older textual computer games from the late 70s and early 80s  such as Adventure, Zork, and the Scott Adams (not the Dilbert guy) adventures  are immersive and interactive and place the user within a computer generated world, though that world was created only through text. You can play adventure online at http://www.astrodragon.com/zplet/advent.html. You can play Zork online at http://thcnet.net/zork/index.php or http://www.xs4all.nl/~pot/infocom/ or at several other sites. The Scott Adams adventures are playable at http://www.freearcade.com/Zplet.jav/Scottadams.html
-video: https://www.youtube.com/watch?v=TNN4VPlRBJ8
-<a href="https://www.youtube.com/watch?v=TNN4VPlRBJ8"><img src="https://www.youtube.com/watch?v=TNN4VPlRBJ8"/></a>
+Older textual computer games from the late 70s and early 80s  such as Adventure, Zork, and the Scott Adams (not the Dilbert guy) adventures  are immersive and interactive and place the user within a computer generated world, though that world was created only through text. You can play adventure online at http://www.astrodragon.com/zplet/advent.html. 
++ You can play Zork online at http://thcnet.net/zork/index.php or http://www.xs4all.nl/~pot/infocom/ or at several other sites. 
++ The Scott Adams adventures are playable at http://www.freearcade.com/Zplet.jav/Scottadams.html
+
 Games in the early 80s started to incorporate primitive graphics to go along with the text, such as Mystery House below.
 video: https://www.youtube.com/watch?v=asOhTnQv8PE
 
