@@ -57,21 +57,21 @@ and there are other interesting solutions that have been in development for a co
 * Demonstrations
 * Vehicle Design (e.g. General Motors, Caterpillar, Boeing)
 * Architectural Walkthroughs
-Entertainment
-Scientific Visualization
-Education and Training
+* Entertainment
+* Scientific Visualization
+* Education and Training
+
 There is quite a bit of work going on in various research labs in VR. New devices are being created, new application areas being worked on, new interaction techniques being explored, and user studies being performed to see if any of these are valuable. What is much harder is getting the technology and the applications out of the research lab and into real use at other sites - getting beyond the 'demo' stage to the 'practical use' stage is still very difficult.
 
-- SCHEDULE VISIT TO ADLER PLANETARIUM
-- SHARING INFORMATION IN GOOGLE DRIVE
 
 
-BEFORE NEXT CLASS (Thursday, September 07)
-Reading of the ultimate display and A Head mounted three-dimensional display
-Write a single page document and upload to canvas. Be prepared to give comments and your thoughts about the paper.
+BEFORE NEXT CLASS
+1. Reading of the ultimate display and A Head mounted three-dimensional display
+Write a single page document and submit via personal message via Slack. 
+Be prepared to give comments and your thoughts about the paper.
 
-Install Unity 
-Install a 3d modeling tool (maya, sketch-up, belnder, etc.)
-Bring a 3 button mouse
-Make sure you have a working Wi-Fi connection to SAIC WiFi
+2. Install Unity 
+3. Install a 3d modeling tool (maya, sketch-up, belnder, etc.)
+4. Bring a 3 button mouse
+5. Make sure you have a working Wi-Fi connection to SAIC WiFi
 
