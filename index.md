@@ -1,17 +1,23 @@
-# Syllabus Virtual Reality
+# Virtual Reality Course
+## School of the ARt Instiute of Chicago 
 ## ARTTECH 4135
 
-Term: SPRING, 2018<br />
+---
+
+Term: Fall, 2020<br />
 Schedule: Monday & Wednesday from 5-8 PM<br />
 Location: MacLean 402<br />
 Instructor: Brenda Lopez blopez3@artic.edu<br />
-TA: Li Yao lyao@saic.edu
+TA: TBD
+
+---
 
 # OVERVIEW
 The Virtual Reality course will introduce students to the creation of interactive Virtual Reality environments for different technologies such as the Google cardboard, Head Mounted Displays (HTC Vive or Oculus) and CAVE like system. The class will cover the necessary topics such as 360° video, modeling, animation, interaction, and sound for the integration of real-time interactive environments. 
 
 We will consider various artworks created for Virtual Reality as well as other immersive techniques. The presentations will open a space for discourse about current issues relevant to virtual reality and immersive environments.
  
+---
 # LEARNING GOALS
 The basics: To learn the basics of VR before digging into deeper contents.
 Presence and Immersion: We will learn the differences between immersion and presence, and how to create both for fully engaging experiences.
@@ -21,7 +27,9 @@ Taking action: The class will include plans of action that anyone can follow to 
 PRIOR Knowledge
 No prior knowledge is expected beyond a basic understanding of computers and applications. Familiarly with a programming language will be helpful. 
  
+----
 # CLASS RESOURCES
+
 ## TEXTBOOK/READINGS
 - The VR Book - Human-Centered Design for Virtual Reality - Jason Jerald 
 - Research Papers from Virtual Reality Conference
@@ -49,7 +57,7 @@ Students must achieve at least an average performance in a course (the tradition
 
 
 # SCHEDULE* 
-Week |	Date	| Monday	| Wednesday	| Project/Assignment due
+Week |	Date	| Monday	| Wednesday	| Project/Assignment due 
 -----|----------|-----------|-----------|------------------------
 2    |	Jan 29 |	Intro to course	VR Intro |	Assignment 0 
 3    |	Feb 05 |	Chapter 1 & 2	| Vision and visuals |	Assignment 1 
@@ -81,8 +89,8 @@ Assignments: [30%]
 • Assignment 02 (5%) - Design a room in Unity. 
 • Assignment 03 (5%) - Add 4 models/textures to Assignment 02. 
 • Assignment 04 (5%) - Add interaction with an object and navigation to Assignment 03.
-• Assignment 05 (5%) - 360 video
-• Assignment 06 (5%) -  
+• Assignment 05 (5%) - Sound and Space
+• Assignment 06 (5%) - 
 
 **All assignments and projects are due by MIDNIGHT on Thursday. **
 Failure to do any assignment will result in an automatic reduction of final grade by 5%. 
